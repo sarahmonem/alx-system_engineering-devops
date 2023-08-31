@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R -type d +rx *
+chmod -R -type d a+rx *
