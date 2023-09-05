@@ -1,2 +1,2 @@
 #!/bin/bash
-export RESULT=129+TRUEKNOWLEDGE
+echo " 128+ $TRUEKNOWLEDGE "
